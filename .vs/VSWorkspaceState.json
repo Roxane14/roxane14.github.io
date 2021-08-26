@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\mail",
+    "\\css",
+    "\\js"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\assets\\mail\\jqBootstrapValidation.js",
   "PreviewInSolutionExplorer": false
 }

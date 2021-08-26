@@ -64,6 +64,13 @@
         $(this).removeClass("floating-label-form-group-with-focus");
       });
     });
+
+
+        
   
   })(jQuery); // End of use strict
-  
+$(document).ready(function () {
+    $("#emailLnk").click(function () {
+        window.location.href = "mailto:xyz@something.com";
+    });
+});?
